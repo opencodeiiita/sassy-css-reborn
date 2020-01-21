@@ -1,0 +1,93 @@
+html, body {
+  /*background:#0846A8;*/
+  border: 20px solid blue;
+  height: 60%;
+  background: grey;
+  border-radius: 25px;
+  /*height: 100%;*/
+}
+
+.container {
+  width:100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  border-radius: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border:1px solid #000;
+}
+
+.outer-lv3 {
+  background-image: linear-gradient(#870000,#FF4040,#870000);
+  height: 260px;
+  width: 260px;
+  -webkit-animation: turning 8s infinite linear;
+  animation: turning 8s infinite linear;
+}
+
+@-webkit-keyframes turning {
+    0%   {transform: rotate(0deg)}
+    100% {transform: rotate(360deg)}
+}
+
+@keyframes turning {
+    0%   {transform: rotate(0deg)}
+    100% {transform: rotate(360deg)}
+}
+
+.outer-lv2 {
+  background: #fff;
+  background-image: linear-gradient(#DBD9D9,#FAFAFA,#DBD9D9);
+  height: 210px;
+  width: 210px;
+}
+
+.outer-lv1 {
+  background-image: linear-gradient(#870000,#FF4040,#870000);
+  height: 150px;
+  width: 150px;
+}
+
+.center {
+  background-image: linear-gradient(#0846A8,#277AFF,#0846A8);
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  border:1px solid #000;
+}
+
+.arrow {
+  border-top: 35px solid #EDE8E8;
+  border-bottom: 48px solid rgba(0,0,0,0.0);
+  border-left: 48px solid transparent;
+  border-right: 48px solid transparent;
+  position: absolute;
+  height: 0;
+  width: 0;
+}
+
+.top {
+  top: 35px;
+  left: 2px;
+}
+
+.left {
+  transform: rotate(72deg);
+  top: 16px;
+  left: -24px;
+}
+
+.right {
+  transform: rotate(-72deg);
+  top: 16px;
+  left: 25px;
+}
