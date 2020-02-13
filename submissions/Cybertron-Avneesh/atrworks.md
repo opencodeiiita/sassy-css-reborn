@@ -7,3 +7,5 @@
 3. Task 3 - Heroes and Villains - https://codepen.io/cybertron-avneesh/pen/
 
 4. Task 5 - Design A Snowman - https://codepen.io/cybertron-avneesh/pen/MWYxjpG
+
+4. Task 4 - WindMill - https://codepen.io/cybertron-avneesh/pen/XWJGVjB
