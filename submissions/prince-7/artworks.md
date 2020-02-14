@@ -4,3 +4,4 @@ Artworks
 2)Task2- Create Pepe the frog- https://codepen.io/prince-7/pen/qBEJeEZ
 3)Task3- Heroes and Villians- https://codepen.io/prince-7/pen/ZEYmYMb
 5)Task5- Design a Snowman- https://codepen.io/prince-7/pen/MWYxemb
+6)Task7 -CSS Valentine Special <3 - https://codepen.io/prince-7/pen/yLNeVBx
