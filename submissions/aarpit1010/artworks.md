@@ -9,6 +9,8 @@ https://codepen.io/aarpit1010/pen/GRgzPQr
 4. Task 4- Create a windmill
 https://codepen.io/aarpit1010/pen/LYEaOZQ
 
-4. Task 5- Design a Snowman
+5. Task 5- Design a Snowman
 https://codepen.io/aarpit1010/pen/MWYxWBo
 
+7. Task 7- CSS Valentine Special
+https://codepen.io/aarpit1010/pen/mdJVmww
