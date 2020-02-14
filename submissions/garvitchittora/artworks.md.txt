@@ -8,3 +8,4 @@ Artworks
 	Task 4: windmill 
 		link: https://codepen.io/garvit-chittora/pen/VwYRYLo
 	Task 5 - snowman -https://codepen.io/garvit-chittora/pen/jOEdgdp
+	Task 6- car -https://codepen.io/garvit-chittora/pen/mdJVOeR
