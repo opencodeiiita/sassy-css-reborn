@@ -9,3 +9,5 @@
 4. Task 5 - Design a snowman - https://codepen.io/pradhuman1/pen/MWYxKpX
 
 5. Task 4 - Create a Windmill - https://codepen.io/pradhuman1/pen/MWYxyKR
+
+6. Task 6 - Make a CSS car - https://codepen.io/pradhuman1/pen/MWwKRrO
