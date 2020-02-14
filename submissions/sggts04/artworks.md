@@ -11,3 +11,4 @@
 
 4. Task 4 - Create a Windmill - https://codepen.io/sggts04/details/PowLoZg
 
+7. Task 7 - CSS Valentine - https://codepen.io/sggts04/details/NWqxJyQ
