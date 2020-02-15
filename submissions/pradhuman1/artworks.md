@@ -9,3 +9,7 @@
 4. Task 5 - Design a snowman - https://codepen.io/pradhuman1/pen/MWYxKpX
 
 5. Task 4 - Create a Windmill - https://codepen.io/pradhuman1/pen/MWYxyKR
+
+
+
+7. Task 7 - CSS Valentine <3 https://codepen.io/pradhuman1/pen/jOPqNze

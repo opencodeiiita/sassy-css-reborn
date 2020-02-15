@@ -5,4 +5,9 @@
 3. task 2-created peppe the frog-https://codepen.io/blaze-assault/pen/gObZEJM
 4. task 4-created snow men-https://codepen.io/blaze-assault/pen/PowLPWv
 5.task 5-https://codepen.io/blaze-assault/pen/xxbBLMK
+
 6.task 6-https://codepen.io/blaze-assault/pen/QWbyeOp
+
+
+7.task 7-https://codepen.io/blaze-assault/pen/JjdXPKP
+
