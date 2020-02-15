@@ -11,3 +11,5 @@
 5. Task 4 - WindMill - https://codepen.io/cybertron-avneesh/pen/XWJGVjB
 
 6. Task 7 - Valentine - https://codepen.io/cybertron-avneesh/pen/GRJoLKa
+
+7. Task 6 - Car - https://codepen.io/cybertron-avneesh/details/wvaGGqP
