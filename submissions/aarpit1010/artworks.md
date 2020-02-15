@@ -12,5 +12,10 @@ https://codepen.io/aarpit1010/pen/LYEaOZQ
 5. Task 5- Design a Snowman
 https://codepen.io/aarpit1010/pen/MWYxWBo
 
+
+6. Task 6- Make a CSS Car
+https://codepen.io/aarpit1010/pen/dyoGWPY
+
 7. Task 7- CSS Valentine Special
 https://codepen.io/aarpit1010/pen/mdJVmww
+
