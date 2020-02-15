@@ -10,4 +10,6 @@
 
 5. Task 4 - Create a Windmill - https://codepen.io/pradhuman1/pen/MWYxyKR
 
-6. Task 6 - Make a CSS car - https://codepen.io/pradhuman1/pen/MWwKRrO
+
+
+7. Task 7 - CSS Valentine <3 https://codepen.io/pradhuman1/pen/jOPqNze
